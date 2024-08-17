@@ -45,16 +45,3 @@ This calculator project serves as a practical example of using Java Swing to cre
 
 
 You can copy and paste the above text into your `README.md` file. It includes an introduction, a description of the project, technical details, key features, and instructions on how to run the application.
-## Output
-
-Below is the interface of the Calculator application:
-
-![Calculator Interface](images/Calculator_Interface.png)
-
-When you perform a calculation like `5 + 3 * 2`, the expression is displayed in the text field:
-
-![Example Calculation](images/Example_Calculation.png)
-
-After pressing `=`, the result is shown:
-
-![Calculation Result](images/Calculation_Result.png)
